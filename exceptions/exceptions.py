@@ -1,0 +1,2 @@
+class DatabaseDuplicateException(Exception):
+    pass
